@@ -209,3 +209,42 @@ small{
     color: #0D1321;
     font-size: 20px;
 }
+
+.need-support-sec{
+    background-image: url('/assets/handshake.jpg');
+    width: 1140PX;
+    height: 314px;
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 13px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.need-support-sec p{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.for-mail input{
+    width: 540px;
+    height: 50px;
+    padding: 0px 15px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+}
+
+.for-mail .submit-btn{
+    width: 120px;
+    height: 52px;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+}
