@@ -140,3 +140,35 @@ small{
     font-size: 15px;
     font-weight: 500;
 }
+
+/* *************** Inspiration ********************* */
+
+.inspiration-container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.video-container{
+    width: 100%;
+    margin-top: 60px;
+    border: 1px solid #0d132119;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.video-container iframe{
+    border-radius: 10px;
+}
+
+/* *************** My Current Target ********************* */
+
+.target-container{
+    width: 1140px;
+    margin: 70px auto;
+}
+
+.tech-cards-container{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+}
